@@ -120,6 +120,14 @@
 > "Because it's there."
 > &emsp;George Herbert Leigh Mallory
 
+### 另外一方面的问题……
+
+问：EXIF 信息去掉了吗？
+答：位置信息去掉了，其它的没动。
+
+问：你发的是原图吗？
+答：有些是，有些不是。看文件名就能看出来。
+
 
 ## 许可证 / License
 
