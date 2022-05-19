@@ -2,7 +2,7 @@
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>
 
-> 好耶！是女装
+> “好耶！是女装”
 > &emsp;——[`komeiji-satori/Dress`](https://github.com/komeiji-satori/Dress)
 
 这个仓库用来存放我（和好朋友）的女装。好耶！
