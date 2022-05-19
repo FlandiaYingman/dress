@@ -88,55 +88,76 @@
 
 ## 常见问题与解答 / FAQ
 
-问：为什么要女装？
+#### 问：为什么要女装？
+
 答：很好看不是吗？并且也挺好玩的。
 
-问：你是不是有什么奇怪的癖好？
+
+#### 问：你是不是有什么奇怪的癖好？
+
 答：如果是指除了女装之外的东西的话，大概没有。不过也说不准呢。
 
-问：你戴的什么假发？/ 头发怎么这么长？
-答：我本身就是留的长头发啦。
-作为参考，这是我 2020 年 11 月左右的头发长度 ↓
+
+#### 问：你戴的什么假发？/ 头发怎么这么长？
+
+答：我本身就是留的长头发啦。作为参考，这是我 2020 年 11 月左右的头发长度 ↓  
+
 <img src=".README\IMG_20220520_014137.jpg" width="250"/>
 
-问：你日常也穿这些吗？
+
+#### 问：你日常也穿这些吗？
+
 答：当然不了！
 
-问：你不会是同性恋吧？
+
+#### 问：你不会是同性恋吧？
+
 答：……不是！
 
-问：为什么不露脸？
+
+#### 问：为什么不露脸？
+
 答：这是女装 collection，不是自拍 collection，所以重点是女装哦。
 
-问：未来还会更新吗？
+
+#### 问：未来还会更新吗？
+
 答：会的，越多 star 更新的越快！
 
-问：可以教我女装吗？
+
+#### 问：可以教我女装吗？
+
 答：当然啦。请发 issue。
 
-问：可以把我自己的女装提交到这里吗？
+#### 问：可以把我自己的女装提交到这里吗？
+
 答：当然啦。请发 pull request。
 
-问：还想再问一遍，为什么要女装？
+#### 问：还想再问一遍，为什么要女装？
+
 答：因为女装就在那里！——不开玩笑地说，这只是一项（小众的）爱好而已。只要我能在其中找到乐子，它的意义就已经够了，嘿嘿。
+
 > "Because it's there."
-> &emsp;George Herbert Leigh Mallory
+> &emsp;by George Herbert Leigh Mallory
+
 
 ### 另外一方面的问题……
 
-问：EXIF 信息去掉了吗？
+#### 问：EXIF 信息去掉了吗？
+
 答：位置信息去掉了，其它的没动。
 
-问：你发的是原图吗？
+
+#### 问：你发的是原图吗？
+
 答：有些是，有些不是。看文件名就能看出来。
 
 
 ## 许可证 / License
 
-<center>
+<p align="center">
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
-</center>
-<br />
+</p>
 
 You are free to:
 
