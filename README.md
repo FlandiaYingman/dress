@@ -116,7 +116,9 @@
 答：当然啦。请发 pull request。
 
 问：还想再问一遍，为什么要女装？
-答：
+答：因为女装就在那里！——不开玩笑地说，这只是一项（小众的）爱好而已。只要我能在其中找到乐子，它的意义就已经够了，嘿嘿。
+> "Because it's there."
+> &emsp;George Herbert Leigh Mallory
 
 
 ## 许可证 / License
